@@ -1,9 +1,9 @@
 ### ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--LmNoCt27--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lqoqivu2ue9s36lyxolt.png)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">A Passionate Software Engineer.</h3>
+<h3 align="center">Software Developer</h3>
 
 
-- 🌱 I’m currently learning **Java, Spring, React**
+- 🌱 I’m currently learning **Java, Spring, React, Angular**
 
 - 📫 How to reach me **omerkircal@outlook.com**
 
